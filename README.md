@@ -7,8 +7,7 @@
 - Running local and API-based LLMs for automation and experimentation  
 
 ## 🤝 I’m looking to collaborate on
-- Open-source homelab tooling  
-- Beginner-friendly cybersecurity projects  
+- Open-source homelab tooling    
 - Self-hosted AI automation systems  
 - Practical network defense labs  
 
@@ -16,7 +15,8 @@
 - Advanced network defense strategies  
 - Infrastructure-as-code workflows  
 - Secure cloud tunnel architecture  
-- Performance optimization for AI workloads  
+- Performance optimization for AI workloads
+- Beginner-friendly cybersecurity projects  
 
 ## 📚 I’m currently learning
 - Network security fundamentals  
