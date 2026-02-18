@@ -23,7 +23,9 @@
 - Traffic analysis with Wireshark  
 - Linux system administration  
 - Docker & container orchestration  
-- Practical offensive security techniques  
+- Practical offensive security techniques
+- Security+ 
+- Linux+
 
 ## 💬 Ask me about
 - Self-hosted services (Jellyfin, Nextcloud, etc.)  
